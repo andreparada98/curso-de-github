@@ -1,4 +1,2 @@
 Git Course
-
-aeba
-asddasd49asdsa9dsa4da9d4ad
+Alterando o Arquivo para commitar novamente.
